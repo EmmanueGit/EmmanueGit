@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Hello+World!+I'm+Emmanuel+Pagulayan" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=600&lines=Hello+World!+I'm+Emmanuel+Christopher+M+Pagulayan" alt="Typing Animation" />
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Emmanuel%20Pagulayan&fontSize=40&fontAlignY=35&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Emmanuel%20Christopher%20M%20Pagulayan&fontSize=30&fontAlignY=35&animation=fadeIn)
   <h3>💻 Computer Engineer | 🌐 IoT Developer | 🤖 AI Enthusiast</h3>
 </div>
 
@@ -12,7 +12,7 @@
 ```python
 class Engineer:
     def __init__(self):
-        self.name = "Emmanuel Pagulayan"
+        self.name = "Emmanuel Christopher M Pagulayan"
         self.title = "Computer Engineering Graduate"
         self.skills = {
             "languages": ["C#", "Python", "JavaScript", "SQL"],
@@ -71,11 +71,11 @@ public void UpdateSensorReadings()
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanueGit&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanueGit&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=EmmanueGit&theme=radical&hide_border=true)
 
 </div>
 
@@ -89,7 +89,7 @@ public void UpdateSensorReadings()
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=EmmanueGit&label=Profile+Views&color=blueviolet&style=flat)
 
 </div>
 
